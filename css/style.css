@@ -3338,5 +3338,27 @@ label {
   margin-top: 30px;
   font-weight: 700;
 }
+
+
+#model-hero {
+    background-image: url('path/to/your/texture.jpg'); /* Add a background texture */
+    color: white;
+    padding: 150px 0;
+    min-height: 100vh;
+}
+
+.graffiti-text {
+    font-family: 'MyGraffitiFont', sans-serif;
+    color: #ffdd00; /* Bold yellow */
+    font-size: 72px;
+    text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.7); 
+}
+
+.sketchfab-embed-wrapper {
+    max-width: 800px;
+    margin: 40px auto;  
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.4); 
+    border: 5px solid #ffdd00; /* Bold border to match heading */ 
+}
 /*# sourceMappingURL=style.css.map */
 
